@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Hubbe.Services.Restaurant.API.props" />
+</Project>

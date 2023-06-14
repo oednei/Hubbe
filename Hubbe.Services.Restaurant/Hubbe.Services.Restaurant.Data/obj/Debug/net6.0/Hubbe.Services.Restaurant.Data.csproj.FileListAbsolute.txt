@@ -1,0 +1,17 @@
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Data\bin\Debug\net6.0\Hubbe.Services.Restaurant.Data.deps.json
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Data\bin\Debug\net6.0\Hubbe.Services.Restaurant.Data.runtimeconfig.json
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Data\bin\Debug\net6.0\Hubbe.Services.Restaurant.Data.dll
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Data\bin\Debug\net6.0\Hubbe.Services.Restaurant.Data.pdb
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Data\obj\Debug\net6.0\Hubbe.Services.Restaurant.Data.csproj.AssemblyReference.cache
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Data\obj\Debug\net6.0\Hubbe.Services.Restaurant.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Data\obj\Debug\net6.0\Hubbe.Services.Restaurant.Data.AssemblyInfoInputs.cache
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Data\obj\Debug\net6.0\Hubbe.Services.Restaurant.Data.AssemblyInfo.cs
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Data\obj\Debug\net6.0\Hubbe.Services.Restaurant.Data.csproj.CoreCompileInputs.cache
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Data\obj\Debug\net6.0\Hubbe.Services.Restaurant.Data.dll
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Data\obj\Debug\net6.0\refint\Hubbe.Services.Restaurant.Data.dll
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Data\obj\Debug\net6.0\Hubbe.Services.Restaurant.Data.pdb
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Data\obj\Debug\net6.0\Hubbe.Services.Restaurant.Data.genruntimeconfig.cache
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Data\obj\Debug\net6.0\ref\Hubbe.Services.Restaurant.Data.dll
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Data\bin\Debug\net6.0\Hubbe.Services.Restaurant.Domain.dll
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Data\bin\Debug\net6.0\Hubbe.Services.Restaurant.Domain.pdb
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Data\obj\Debug\net6.0\Hubbe.Services.Restaurant.Data.csproj.CopyComplete
