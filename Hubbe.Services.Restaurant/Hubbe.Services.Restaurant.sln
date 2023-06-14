@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. UI", "1. UI", "{B1F40A33-BEE8-4CC6-91A3-BA73B137BF3E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. API", "2. API", "{A9BB54A2-7C36-416A-8ED2-81A2C9C022C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Domain", "3. Domain", "{4BB22A9C-361C-482D-B018-2456C3416FF3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Repo", "4. Repo", "{FDBCEC85-64E8-42A5-94C3-7C8CF22D3AD3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Data", "5. Data", "{8EBB8A4A-1D08-44C7-9677-3647F4CA03AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hubbe.Services.Restaurant.Data", "Hubbe.Services.Restaurant.Data\Hubbe.Services.Restaurant.Data.csproj", "{B511930F-4D00-401B-9DBF-8E20EFDAD1D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hubbe.Services.Restaurant.Domain", "Hubbe.Services.Restaurant.Domain\Hubbe.Services.Restaurant.Domain.csproj", "{323E9D04-F405-459B-9CA9-3E5708EA933B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hubbe.Services.Restaurant.API", "Hubbe.Services.Restaurant.API\Hubbe.Services.Restaurant.API.csproj", "{3CEC5C78-733C-4BBE-860E-742C917BD6A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hubbe.Services.Restaurant.Repositories", "Hubbe.Services.Restaurant.Repositories\Hubbe.Services.Restaurant.Repositories.csproj", "{D4DB2FB5-1CCA-4DDA-AD53-7D9C0F6AC05B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B511930F-4D00-401B-9DBF-8E20EFDAD1D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B511930F-4D00-401B-9DBF-8E20EFDAD1D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B511930F-4D00-401B-9DBF-8E20EFDAD1D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B511930F-4D00-401B-9DBF-8E20EFDAD1D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{323E9D04-F405-459B-9CA9-3E5708EA933B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323E9D04-F405-459B-9CA9-3E5708EA933B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323E9D04-F405-459B-9CA9-3E5708EA933B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323E9D04-F405-459B-9CA9-3E5708EA933B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CEC5C78-733C-4BBE-860E-742C917BD6A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CEC5C78-733C-4BBE-860E-742C917BD6A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CEC5C78-733C-4BBE-860E-742C917BD6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CEC5C78-733C-4BBE-860E-742C917BD6A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4DB2FB5-1CCA-4DDA-AD53-7D9C0F6AC05B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4DB2FB5-1CCA-4DDA-AD53-7D9C0F6AC05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4DB2FB5-1CCA-4DDA-AD53-7D9C0F6AC05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4DB2FB5-1CCA-4DDA-AD53-7D9C0F6AC05B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B511930F-4D00-401B-9DBF-8E20EFDAD1D6} = {8EBB8A4A-1D08-44C7-9677-3647F4CA03AE}
+		{323E9D04-F405-459B-9CA9-3E5708EA933B} = {4BB22A9C-361C-482D-B018-2456C3416FF3}
+		{3CEC5C78-733C-4BBE-860E-742C917BD6A5} = {A9BB54A2-7C36-416A-8ED2-81A2C9C022C6}
+		{D4DB2FB5-1CCA-4DDA-AD53-7D9C0F6AC05B} = {FDBCEC85-64E8-42A5-94C3-7C8CF22D3AD3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ED13BA3-D185-49D0-B0D8-F2D194996B4B}
+	EndGlobalSection
+EndGlobal

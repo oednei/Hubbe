@@ -1,0 +1,12 @@
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Domain\bin\Debug\net6.0\Hubbe.Services.Restaurant.Domain.deps.json
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Domain\bin\Debug\net6.0\Hubbe.Services.Restaurant.Domain.dll
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Domain\bin\Debug\net6.0\Hubbe.Services.Restaurant.Domain.pdb
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Domain\obj\Debug\net6.0\Hubbe.Services.Restaurant.Domain.csproj.AssemblyReference.cache
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Domain\obj\Debug\net6.0\Hubbe.Services.Restaurant.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Domain\obj\Debug\net6.0\Hubbe.Services.Restaurant.Domain.AssemblyInfoInputs.cache
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Domain\obj\Debug\net6.0\Hubbe.Services.Restaurant.Domain.AssemblyInfo.cs
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Domain\obj\Debug\net6.0\Hubbe.Services.Restaurant.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Domain\obj\Debug\net6.0\Hubbe.Services.Restaurant.Domain.dll
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Domain\obj\Debug\net6.0\refint\Hubbe.Services.Restaurant.Domain.dll
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Domain\obj\Debug\net6.0\Hubbe.Services.Restaurant.Domain.pdb
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Domain\obj\Debug\net6.0\ref\Hubbe.Services.Restaurant.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Repositories\bin\Debug\net6.0\Hubbe.Services.Restaurant.Repositories.deps.json
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Repositories\bin\Debug\net6.0\Hubbe.Services.Restaurant.Repositories.dll
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Repositories\bin\Debug\net6.0\Hubbe.Services.Restaurant.Repositories.pdb
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Repositories\bin\Debug\net6.0\Hubbe.Services.Restaurant.Data.dll
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Repositories\bin\Debug\net6.0\Hubbe.Services.Restaurant.Domain.dll
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Repositories\bin\Debug\net6.0\Hubbe.Services.Restaurant.Data.pdb
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Repositories\bin\Debug\net6.0\Hubbe.Services.Restaurant.Domain.pdb
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Repositories\obj\Debug\net6.0\Hubbe.Services.Restaurant.Repositories.csproj.AssemblyReference.cache
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Repositories\obj\Debug\net6.0\Hubbe.Services.Restaurant.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Repositories\obj\Debug\net6.0\Hubbe.Services.Restaurant.Repositories.AssemblyInfoInputs.cache
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Repositories\obj\Debug\net6.0\Hubbe.Services.Restaurant.Repositories.AssemblyInfo.cs
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Repositories\obj\Debug\net6.0\Hubbe.Services.Restaurant.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Repositories\obj\Debug\net6.0\Hubbe.Services.Restaurant.Repositories.csproj.CopyComplete
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Repositories\obj\Debug\net6.0\Hubbe.Services.Restaurant.Repositories.dll
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Repositories\obj\Debug\net6.0\refint\Hubbe.Services.Restaurant.Repositories.dll
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Repositories\obj\Debug\net6.0\Hubbe.Services.Restaurant.Repositories.pdb
+C:\Users\ednei\source\repos\Hubbe.Services.Restaurant\Hubbe.Services.Restaurant.Repositories\obj\Debug\net6.0\ref\Hubbe.Services.Restaurant.Repositories.dll
